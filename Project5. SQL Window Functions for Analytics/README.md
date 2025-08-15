@@ -28,3 +28,9 @@ Task 7: Window Frames - Part One
 Task 8: Window Frames - Part Two
 
 Task 9: GROUPING SETS(), ROLLUP(), & CUBE()
+
+<img width="1918" height="1077" alt="1" src="https://github.com/user-attachments/assets/411ec2bc-0b04-4aa8-b15b-25245f792104" />
+<img width="1918" height="1076" alt="2" src="https://github.com/user-attachments/assets/6a3dae90-8abc-45c6-a5b8-7856ab12cbaa" />
+<img width="1918" height="1080" alt="3" src="https://github.com/user-attachments/assets/a80cda9d-e00c-4c21-9637-95fed3248733" />
+<img width="1918" height="1077" alt="4" src="https://github.com/user-attachments/assets/58d85e69-4bb6-43ab-90c5-f036bc4bd4fe" />
+<img width="1918" height="1079" alt="5" src="https://github.com/user-attachments/assets/f3fa4f87-d97b-43ce-b5bc-3b183d6ed864" />
