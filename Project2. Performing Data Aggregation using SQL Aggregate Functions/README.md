@@ -24,3 +24,13 @@ Task 6: MIN() & MAX()
 Task 7: AVG()
 
 Task 8: ROUND
+
+<img width="1919" height="1031" alt="1" src="https://github.com/user-attachments/assets/8001cde6-7e12-424c-9bbf-61731dc1af2d" />
+<img width="1919" height="1031" alt="2" src="https://github.com/user-attachments/assets/27e3b3c3-09cc-462a-b086-1e9a374da9f3" />
+<img width="1918" height="1029" alt="3" src="https://github.com/user-attachments/assets/fa9ccbcc-69eb-4d1c-b960-4eaf4741f47c" />
+<img width="1919" height="1030" alt="4" src="https://github.com/user-attachments/assets/f3d03136-6c75-4814-8316-8334b705595e" />
+<img width="1919" height="1031" alt="5" src="https://github.com/user-attachments/assets/f1557496-552b-4565-ac7e-d5f762791656" />
+
+
+
+
